@@ -1,9 +1,7 @@
 # SevenZero
 
-```txt
 South African Developer — Cape Town, Western Cape
 Minecraft Bedrock • Protocol Systems • Backend
-```
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SevenZero&label=Profile%20views&color=0e75b6&style=flat" />
@@ -30,20 +28,18 @@ Minecraft Bedrock • Protocol Systems • Backend
 ## Work
 
 **Hosting**
-```txt
+
 ExoticNodes • SodiumNodes • GalaxyNodes • ZaptoHosting • Navarix Hosting
-```
 
 **Projects / Companies**
-```txt
+
 SpaceCloud LLC • Hyperion Games • EzCode • Motionless Graphics
-```
+
 
 **Servers**
-```txt
+
 PortalWix • BlueGames • GodWix • InfinityLand • HytaleMC
 Hyplex • Mineplexity • GalaxitePE • Hylex
-```
 
 ---
 
@@ -58,19 +54,15 @@ Hyplex • Mineplexity • GalaxitePE • Hylex
 
 ## Status
 
-```txt
 Currently: ZyloxHosting, LightWixPE
 Previously: Warlandia
-```
 
 ---
 
 ## Creative
 
-```txt
 AMV Editor • GFX Artist
 Snazzy • Mikey McQueen • Aqua • Vortex • As3sh
-```
 
 ---
 
@@ -88,6 +80,4 @@ Snazzy • Mikey McQueen • Aqua • Vortex • As3sh
 
 ## Contact
 
-```txt
 Add your Discord / links here
-```

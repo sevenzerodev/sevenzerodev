@@ -1,16 +1,93 @@
-## Hi there 👋
+# SevenZero
 
-<!--
-**sevenzerodev/sevenzerodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+South African Developer — Cape Town, Western Cape
+Minecraft Bedrock • Protocol Systems • Backend
+```
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SevenZero&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-PMMP%20Core-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Protocol%20Systems-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+
+---
+
+## About
+
+- 4+ years development experience  
+- Minecraft Bedrock internals & multi-version systems  
+- Crossplay + protocol layers (0.12 → 1.21.100)  
+- PMMP compatibility (0.14.3 → 1.21.100)  
+- Backend systems & automation  
+
+---
+
+## Work
+
+**Hosting**
+```txt
+ExoticNodes • SodiumNodes • GalaxyNodes • ZaptoHosting • Navarix Hosting
+```
+
+**Projects / Companies**
+```txt
+SpaceCloud LLC • Hyperion Games • EzCode • Motionless Graphics
+```
+
+**Servers**
+```txt
+PortalWix • BlueGames • GodWix • InfinityLand • HytaleMC
+Hyplex • Mineplexity • GalaxitePE • Hylex
+```
+
+---
+
+## Experience
+
+- Python developer (botting services)  
+- Managed 4K+ member communities  
+- Early Bedrock minigame development  
+- PHP, Java, Python  
+
+---
+
+## Status
+
+```txt
+Currently: ZyloxHosting, LightWixPE
+Previously: Warlandia
+```
+
+---
+
+## Creative
+
+```txt
+AMV Editor • GFX Artist
+Snazzy • Mikey McQueen • Aqua • Vortex • As3sh
+```
+
+---
+
+## Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SevenZero&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SevenZero&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+```txt
+Add your Discord / links here
+```

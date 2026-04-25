@@ -23,49 +23,6 @@ Minecraft Bedrock • Protocol Systems • Backend
 - PMMP compatibility (0.14.3 → 1.21.100)  
 - Backend systems & automation  
 
----
-
-## Work
-
-**Hosting**
-
-ExoticNodes • SodiumNodes • GalaxyNodes • ZaptoHosting • Navarix Hosting
-
-**Projects / Companies**
-
-SpaceCloud LLC • Hyperion Games • EzCode • Motionless Graphics
-
-
-**Servers**
-
-PortalWix • BlueGames • GodWix • InfinityLand • HytaleMC
-Hyplex • Mineplexity • GalaxitePE • Hylex
-
----
-
-## Experience
-
-- Python developer (botting services)  
-- Managed 4K+ member communities  
-- Early Bedrock minigame development  
-- PHP, Java, Python  
-
----
-
-## Status
-
-Currently: ZyloxHosting, LightWixPE
-Previously: Warlandia
-
----
-
-## Creative
-
-AMV Editor • GFX Artist
-Snazzy • Mikey McQueen • Aqua • Vortex • As3sh
-
----
-
 ## Stats
 
 <p align="left">

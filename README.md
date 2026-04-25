@@ -82,4 +82,4 @@ Snazzy • Mikey McQueen • Aqua • Vortex • As3sh
 
 Discord: ```sztog```
 
-Discord Server: ```https://discord.gg/PRBpPe9fXF```
+Discord Server: https://discord.gg/PRBpPe9fXF

@@ -86,12 +86,12 @@ Open Source
 </div>
 ---
 
-<div align="center"><a href="https://github.com/YOUR_USERNAME">
+<div align="center"><a href="https://github.com/sevenzerodev">
 <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
-</a><a href="https://discord.gg/YOUR_INVITE">
+</a><a href="https://discord.gg/PRBpPe9fXF">
 <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000"/>
-</a><a href="https://YOUR_WEBSITE">
+</a><a href="https://sodiumnodes.org">
 <img src="https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
 </a><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=grey&style=for-the-badge"/></div><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,100:090909&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=sevenzerodev&label=Profile+Views&color=grey&style=for-the-badge"/></div><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,100:090909&section=footer"/>

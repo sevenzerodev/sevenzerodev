@@ -1,42 +1,49 @@
+<div align="center">
+
 # SevenZero
 
-South African Developer — Cape Town, Western Cape
-Minecraft Bedrock • Protocol Systems • Backend
+### System Administrator • Minecraft Developer • Open Source Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SevenZero&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+Developing Minecraft PE server software, retro protocol technology,  
+backend systems, and modern infrastructure projects.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-PMMP%20Core-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Protocol%20Systems-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Minecraft+PE+Developer;Backend+%26+Infrastructure;Retro+Protocol+Research;Open+Source+Projects" />
 
-## About
+<br><br>
 
-- 4+ years development experience  
-- Minecraft Bedrock internals & multi-version systems  
-- Crossplay + protocol layers (0.12 → 1.21.100)  
-- PMMP compatibility (0.14.3 → 1.21.100)  
-- Backend systems & automation  
+<img src="https://skillicons.dev/icons?i=php,java,js,ts,python,react,nextjs,tailwind,linux,docker,git,github" />
 
-## Stats
+<br><br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SevenZero&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" height="165">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SevenZero&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="165">
 
----
+<br><br>
 
-## Contact
+## 🚀 Current Focus
 
-Discord: ```sztog```
+Multi-version MCPE networking • Server software architecture •  
+Hosting infrastructure • Protocol research • Backend tooling
 
-Discord Server: https://discord.gg/PRBpPe9fXF
+<br>
+
+<a href="https://github.com/sevenzerodev">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000">
+</a>
+
+<a href="https://discord.gg/PRBpPe9fXF">
+    <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000">
+</a>
+
+<a href="https://sodiumnodes.org">
+    <img src="https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=googlechrome&logoColor=000000">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sevenzero&style=flat-square&color=white">
+
+</div>

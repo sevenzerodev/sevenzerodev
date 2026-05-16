@@ -12,13 +12,13 @@
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sevenzerodev&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sevenzerodev&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
 
 <br><br>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&hide_border=true"/>
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=sevenzerodev&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&hide_border=true"/>
 
 </div>
 

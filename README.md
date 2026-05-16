@@ -82,7 +82,7 @@ Open Source
 > Hosting infrastructure systems
 > Retro Minecraft protocol support
 > Backend tooling & optimization
-
+```
 </div>
 ---
 
